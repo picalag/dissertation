@@ -1,0 +1,56 @@
+Picalag: an intelligent calendar aggregator
+Dissertation
+
+Contents:
+
+1 Introduction
+1.1 Project overview and motivations
+1.2 About the following document
+2 Background
+2.1 Calagator
+2.1.1 Presentation
+2.1.2 Aggregation: import and export supported formats
+2.2 Recommender systems (RSs)
+2.2.1 Definition
+2.2.2 Different types of Recommender Systems
+2.2.3 Criteria for the choice of relevant RS
+2.3 Related works: Events recommendation
+3 Design and Implementation
+3.1 Introduction
+3.2 Requirements Analysis
+3.3 Project organisation
+3.3.1 Deliverables
+3.3.2 Research and development methodology
+3.4 Tools
+3.5 Architecture
+3.5.1 The automated events scraping and import scripts
+3.5.2 The front end web-application
+3.5.3 The PServer back end application
+3.6 Deliverables
+4 Evaluation and analysis
+4.1 Introduction
+4.2 Evaluation methodology
+4.3 Evaluations
+4.3.1 Evaluation 1: relevance of the intelligent part
+4.3.2 Evaluation 2: data structure, storage and performance
+4.3.3 Evaluation 3: user feedback
+4.4 Results
+4.4.1 Participants sample
+4.4.2 Data feed
+4.4.3 Data structure, storage and performance
+4.4.4 Relevance of the intelligent part and user feedbacks
+5 Conclusion
+5.1 Summary
+5.2 Future work
+Bibliography
+A Evaluation questionnaires
+A.1 Initial form
+A.2 Picalag evaluation - End of session Form
+A.3 Picalag Evaluation: Final form
+B Documentation
+B.1 Picalag Front-end application
+B.1.1 Installation instructions
+B.1.2 Import RESTful API
+B.2 PServer Back-end application
+B.2.1 Installation instructions
+B.2.2 RESTful API
